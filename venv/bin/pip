@@ -1,4 +1,4 @@
-#!/Users/jungdaewook/Desktop/2024-1/mobileWebProgramming/my-first-blog/venv/bin/python3.11
+#!/Users/jungdaewook/Desktop/2024-1/mobileWebProgramming/my-first-blog/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
